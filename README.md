@@ -1,0 +1,3 @@
+- Olá! Sou Giovana Martins
+- Tenho 18 anos
+- Sou estudante de programação com interesse em Full-Stack
